@@ -13,8 +13,6 @@ theme = "../.."
 #     pagesize = "6"
 #     featuredpost = "true"
 
-[params.settings]
-    disqus = "hugo-massively"
 
 [languages]
 [languages.en]
